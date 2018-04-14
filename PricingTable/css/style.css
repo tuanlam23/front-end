@@ -149,6 +149,24 @@ a#buytour3:hover{
 	background-color: #32ad1e;
 	color: #FFF;
 }
+#new{
+	width: 70px;
+	height: 70px;
+	background-image: url("icon.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	margin-left: -15px;
+	margin-top: -15px;
+}
+div p{
+	margin: 20px;
+	color: #FFF;
+	font-size:12px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	text-align: center;
+	line-height: 30px;
+}
 @media only screen and (max-width: 830px){
 	.column{width: 50%;}
 
